@@ -14,10 +14,10 @@
     }
 
     .heading {
-        @apply mt-4 font-bold text-3xl text-blue-700;
+        @apply mt-4 flex justify-center items-center font-bold text-2xl lg:text-3xl text-blue-700;
     }
 
     .description {
-        @apply text-center text-black font-medium;
+        @apply text-center text-base text-black font-medium;
     }
 }
